@@ -38,6 +38,16 @@ The goal is to perform **data cleaning, exploratory analysis, and visualization*
 - Data-driven content strategy is evident through increased regional variety.
 
 ## 📂 Project Structure
+Netflix-Data-Analysis/
+│
+├── Netflix_Analysis.ipynb # Main notebook
+├── README.md # Project summary
+├── datasets/
+│ └── netflix_titles.csv
+└── visuals/
+├── genre_plot.png
+├── rating_plot.png
+└── country_plot.png
 
 ## 👩‍💻 Author
 **Kugannath**  
